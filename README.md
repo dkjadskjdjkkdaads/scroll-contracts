@@ -5,7 +5,7 @@ This directory contains the solidity code for Scroll L1 bridge and rollup contra
 ## Directory Structure
 
 <pre>
-├── <a href="./hardhat-test/">hardhat-test</a>: Hardhat integration tests
+├── <a href="./hardhat-test/">hardhat-test</a>: Hardhat integration test
 ├── <a href="./lib/">lib</a>: External libraries and testing tools
 ├── <a href="./scripts">scripts</a>: Deployment scripts
 ├── <a href="./src">src</a>
